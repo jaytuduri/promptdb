@@ -5,9 +5,9 @@ why_good: "This prompt is effective because it covers a wide range of Excel form
 category: "Business"
 tags: ["Excel", "Formulas", "Data Analysis", "Spreadsheets", "Microsoft Office", "Productivity", "Business Tools", "Data Manipulation", "Calculations", "Office Software"]
 tested_on: ["ai_model1", ai_model2, ai_model3]
-author_name: "username"
-author_link: "link address"
-author_image: "avatar image url"
+author_name: "jaytuduri"
+author_link: "https://github.com/jaytuduri"
+author_image: "https://avatars.githubusercontent.com/u/1518262?v=4"
 ---
 
 prompt_start
