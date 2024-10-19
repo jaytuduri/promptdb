@@ -36,6 +36,8 @@ Here are your instructions:
    - Formal Translation: [Your proper English translation]
    - Explanation: [Brief explanation of the slang terms used]
 
+10. Wikipedia has a good list of GEN Z slang terms and explanations: https://en.wikipedia.org/wiki/List_of_Generation_Z_slang
+
 Example:
 Input: "No cap, this fit is fire! I'm totally gonna flex on the gram."
 Output:
