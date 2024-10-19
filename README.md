@@ -16,8 +16,16 @@ This repository serves as a collaborative platform for AI enthusiasts, researche
 
 ## Repository Structure
 
-- `/prompts`: Contains individual prompt files or categories of prompts
+- `/general`: Contains general information about the project
+  - `categories.md`: List of categories for prompts and instructions
+  - `models.md`: Information about AI models
 - `/instructions`: Contains system instruction files or categories of instructions
+  - `/business`: Business-related instructions
+  - `/developer`: Developer-focused instructions
+  - `/education`: Education-related instructions
+- `/prompts`: Contains individual prompt files or categories of prompts
+- `/templates`: Contains templates for creating new prompts or instructions
+  - `instructions_template.md`: Template for creating new instruction files
 
 ## Contributing
 
