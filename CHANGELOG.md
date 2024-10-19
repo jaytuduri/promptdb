@@ -7,6 +7,12 @@ and this project adheres to the principle of documenting changes as they occur.
 
 This file will be updated with new entries as changes are made to the project. Each entry will be dated with the format YYYY.MM.DD.
 
+## 2024.10.20
+
+### Changed
+- Updated project name to PromptDB
+- Modified README.md to reflect the new project name and include it in the introduction
+
 ## 2024.10.19
 
 ### Added
