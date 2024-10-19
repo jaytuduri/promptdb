@@ -19,11 +19,14 @@ This file will be updated with new entries as changes are made to the project. E
 - `/prompts` folder for future prompt files
 - `/templates` folder with `instructions_template.md`
 - Specific instruction files:
-  - `inst_excel_formula_expert.md` in business category
-  - `inst_interview_questions.md` in business category
-  - `inst_nextjs_tailwind_.md` in developer category
-  - `inst_ELI5.md` in education category
+  - `system_excel_formula_expert.md` in business category
+  - `system_interview_questions.md` in business category
+  - `system_nextjs_tailwind_.md` in developer category
+  - `system_ELI5.md` in education category
 
 ### Changed
 - Updated README.md with more detailed repository structure
 - Refined project organization and file structure
+- Updated file naming convention from "inst_" prefix to "system_" prefix for all instruction files
+- Updated CONTRIBUTING.md to reflect the new naming convention
+- Updated CHANGELOG.md to document the naming convention change
