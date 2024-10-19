@@ -6,8 +6,8 @@ category: "Content Creation"
 tags: ["education", "simplification", "child-friendly", "ELI5"]
 tested_on: ["ai_model1", ai_model2, ai_model3]
 author_name: "jaytuduri"
-author_link: "link address"
-author_image: "avatar image url"
+author_link: "https://github.com/jaytuduri"
+author_image: "https://avatars.githubusercontent.com/u/1518262?v=4"
 ---
 
 prompt_start

@@ -5,9 +5,9 @@ why_good: "This prompt creates a fun and engaging way to bridge generational lan
 category: "Content Creation"
 tags: ["language", "translation", "Gen Z", "slang", "proper English", "fun"]
 tested_on: ["gpt-3.5-turbo", "gpt-4"]
-author_name: "username"
-author_link: "link address"
-author_image: "avatar image url"
+author_name: "jaytuduri"
+author_link: "https://github.com/jaytuduri"
+author_image: "https://avatars.githubusercontent.com/u/1518262?v=4"
 ---
 
 prompt_start
