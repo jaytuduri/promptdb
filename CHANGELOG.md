@@ -13,8 +13,9 @@ This file will be updated with new entries as changes are made to the project. E
 - Updated project name to PromptDB
 - Modified README.md to reflect the new project name and include it in the introduction
 - Specific instruction files:
-  - `system_genz_slang_translator.md` in misc category
-  - `system_promptdb_formatter.md` in misc category
+  - `system_genz_slang_translator.md` in misc category.
+  - `system_promptdb_formatter.md` in misc category.
+  - `system_expert_python_developer.md` in developer category.
 - Misc category to `categories.md`
 
 ## 2024.10.19
