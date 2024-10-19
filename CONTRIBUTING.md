@@ -14,7 +14,7 @@ We're excited that you're interested in contributing to our repository of AI pro
 When submitting new prompts or instructions, please adhere to the following:
 
 1. **File Format**: Submit prompts and instructions as markdown (.md) files.
-2. **Naming Convention**: Use clear, descriptive names for your files, following the pattern `inst_[description].md` for instructions, e.g., `inst_creative_writing.md` or `inst_code_review.md`.
+2. **Naming Convention**: Use clear, descriptive names for your files, following the pattern `system_[description].md` for instructions, e.g., `system_creative_writing.md` or `system_code_review.md`.
 3. **Content Structure**:
    - Start with a brief description of the prompt/instruction's purpose
    - Provide the actual prompt or instruction
@@ -29,7 +29,7 @@ When submitting new prompts or instructions, please adhere to the following:
 
 ### For Instructions
 - Place in the appropriate subfolder under `/instructions`
-- Follow the naming convention: `inst_[description].md`
+- Follow the naming convention: `system_[description].md`
 - Use the template in `/templates/instructions_template.md`
 - Include clear examples of how the instruction should be used
 
