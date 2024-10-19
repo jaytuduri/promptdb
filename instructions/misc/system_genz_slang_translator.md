@@ -1,5 +1,5 @@
 ---
-prompt_name: "Your System instruction Name"
+prompt_name: "Your Prompt Name"
 description: "A brief description of the prompt and its use case."
 why_good: "Explain why this is a good or effective prompt."
 category: "Choose one from [Development, Financial Analysis, Content Creation, Writer, etc.]"
