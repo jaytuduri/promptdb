@@ -23,6 +23,7 @@ PromptDB serves as a collaborative platform for AI enthusiasts, researchers, and
   - `/business`: Business-related instructions
   - `/developer`: Developer-focused instructions
   - `/education`: Education-related instructions
+  - `/misc` : Miscellaneous instructions
 - `/prompts`: Contains individual prompt files or categories of prompts
 - `/templates`: Contains templates for creating new prompts or instructions
   - `instructions_template.md`: Template for creating new instruction files
