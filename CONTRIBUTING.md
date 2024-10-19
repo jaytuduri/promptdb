@@ -1,6 +1,6 @@
-# Contributing to AI Prompts and System Instructions Repository
+# Contributing to PromptDB
 
-We're excited that you're interested in contributing to our repository of AI prompts and system instructions! This document provides guidelines for contributions to ensure consistency and quality across the project.
+We're excited that you're interested in contributing to PromptDB, our repository of AI prompts and system instructions! This document provides guidelines for contributions to ensure consistency and quality across the project.
 
 ## How to Contribute
 
@@ -55,4 +55,4 @@ Please note that this project is released with a Contributor Code of Conduct. By
 
 If you have any questions about contributing, please open an issue in the repository, and we'll be happy to help!
 
-Thank you for your contributions to making AI prompts and instructions more accessible and effective!
+Thank you for your contributions to making PromptDB more accessible and effective!
