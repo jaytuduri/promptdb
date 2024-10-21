@@ -17,6 +17,7 @@ This file will be updated with new entries as changes are made to the project. E
   - `system_swiftUI_iOS.md` in developer category
   - `system_self_care_plan_builder.md` in misc category
   - `system_terms_and_conditions_analyzer.md` in misc category
+  - `system_cv_resume_builder.md` in business category
 - New files in the root directory: .gitattributes and .gitignore
 - New files in the docs folder: about.md, prompts.md, system_instructions.md
 - New template file: `prompt_prompt_template_file.md` in templates folder
