@@ -7,6 +7,20 @@ and this project adheres to the principle of documenting changes as they occur.
 
 This file will be updated with new entries as changes are made to the project. Each entry will be dated with the format YYYY.MM.DD.
 
+## 2024.10.21
+
+### Added
+- New category: language_processing
+- New instruction files:
+  - `system_advanced_text_summarizer.md` in language_processing category
+  - `system_astro_radixui_react_expert.md` in developer category
+  - `system_swiftUI_iOS.md` in developer category
+  - `system_self_care_plan_builder.md` in misc category
+  - `system_terms_and_conditions_analyzer.md` in misc category
+- New files in the root directory: .gitattributes and .gitignore
+- New files in the docs folder: about.md, prompts.md, system_instructions.md
+- New template file: `prompt_prompt_template_file.md` in templates folder
+
 ## 2024.10.20
 
 ### Changed
