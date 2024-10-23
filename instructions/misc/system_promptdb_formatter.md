@@ -4,7 +4,7 @@ description: "A system instruction for creating effective prompts and system ins
 why_good: "This prompt guides users in creating well-structured, informative, and reusable prompts and system instructions, ensuring consistency and quality across the PromptDB project."
 category: "Development"
 tags: ["promptengineering", "systeminstruction", "documentation"]
-tested_on: ["Claude Sonnet 3.5]
+tested_on: ["Claude Sonnet 3.5"]
 author_name: "jaytuduri"
 author_link: "https://github.com/jaytuduri"
 author_image: "https://avatars.githubusercontent.com/u/1518262?v=4"
@@ -52,7 +52,7 @@ description: "A brief description of the prompt and its use case."
 why_good: "Explain why this is a good or effective prompt."
 category: "Choose one from [Development, Financial Analysis, Content Creation, Writer, etc.]"
 tags: ["tag1", "tag2", "tag3"]
-tested_on: ["ai_model1", ai_model2, ai_model3]
+tested_on: ["ai_model1", "ai_model2", "ai_model3"]
 author_name: "username"
 author_link: "link address"
 author_image: "avatar image url"
