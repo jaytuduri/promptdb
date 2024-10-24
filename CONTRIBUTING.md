@@ -14,27 +14,27 @@ We're excited that you're interested in contributing to PromptDB, our repository
 When submitting new prompts or instructions, please adhere to the following:
 
 1. **File Format**: Submit prompts and instructions as markdown (.md) files.
-2. **Naming Convention**: Use clear, descriptive names for your files, following the pattern `system_[description].md` for instructions, e.g., `system_creative_writing.md` or `system_code_review.md`.
+2. **Naming Convention**: Use clear, descriptive names for your files, following the pattern `system_[description].md` for system prompts, e.g., `system_creative_writing.md` or `system_code_review.md`.
 3. **Content Structure**:
    - Start with a brief description of the prompt/instruction's purpose
    - Provide the actual prompt or instruction
    - If applicable, include examples of expected input/output
    - Add any relevant tags or categories at the end of the file
 
-4. **Categorization**: Place your file in the appropriate folder within `/instructions` (e.g., `/instructions/business`, `/instructions/developer`, `/instructions/education`) or `/prompts`. Create new subfolders if necessary, but try to fit within existing categories if possible.
+4. **Categorization**: Place your file in the appropriate folder within `/prompts/system_prompt` for system prompts or `/prompts/user_prompt` for user prompts. Create new subfolders if necessary, but try to fit within existing categories if possible.
 
-5. **Use the Template**: For instructions, use the template provided in `/templates/instructions_template.md` as a starting point.
+5. **Use the Template**: For prompts, use the template provided in `/templates/prompt_prompt_template_file.md` as a starting point.
 
 ## Specific Contribution Guidelines
 
-### For Instructions
-- Place in the appropriate subfolder under `/instructions`
+### For System Prompts
+- Place in the `/prompts/system_prompt` folder
 - Follow the naming convention: `system_[description].md`
-- Use the template in `/templates/instructions_template.md`
-- Include clear examples of how the instruction should be used
+- Use the template in `/templates/prompt_prompt_template_file.md`
+- Include clear examples of how the prompt should be used
 
-### For Prompts (Future)
-- Place in the `/prompts` folder
+### For User Prompts
+- Place in the `/prompts/user_prompt` folder
 - Follow a clear naming convention (to be determined)
 - Include context on when and how to use the prompt
 
@@ -56,3 +56,5 @@ Please note that this project is released with a Contributor Code of Conduct. By
 If you have any questions about contributing, please open an issue in the repository, and we'll be happy to help!
 
 Thank you for your contributions to making PromptDB more accessible and effective!
+
+Last updated: October 24th, 2024
