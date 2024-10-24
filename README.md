@@ -14,6 +14,8 @@ Welcome to PromptDB, the open-source repository of AI prompts and system instruc
 
 PromptDB serves as a collaborative platform for AI enthusiasts, researchers, and developers to share and improve prompts and system instructions. By centralizing these resources, we aim to enhance the quality and effectiveness of AI interactions across various applications.
 
+For more detailed information about the project, please see our [About page](docs/about.md).
+
 ## Repository Structure
 
 - `/docs`: Contains documentation files
