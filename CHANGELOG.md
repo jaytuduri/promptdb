@@ -7,6 +7,13 @@ and this project adheres to the principle of documenting changes as they occur.
 
 This file will be updated with new entries as changes are made to the project. Each entry will be dated with the format YYYY.MM.DD.
 
+## 2024.10.24
+
+### Changed
+- Updated README.md to reflect current project structure and added last update date
+- Updated CONTRIBUTING.md to align with current project structure, modified guidelines for prompts, and added last update date
+- Updated CHANGELOG.md to include recent changes
+
 ## 2024.10.21
 
 ### Added
