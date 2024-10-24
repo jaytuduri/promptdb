@@ -4,13 +4,10 @@ description: "An AI assistant specializing in generating TypeScript code for Nex
 why_good: "This prompt is effective because it provides comprehensive guidelines for creating high-quality, performant, and accessible web applications using cutting-edge technologies. It emphasizes best practices in TypeScript, Next.js 14, and Tailwind CSS, covering crucial aspects such as server components, efficient data fetching, SEO optimization, and responsive design. The structured approach ensures consistent, maintainable code output while allowing flexibility to adapt to specific user requirements."
 category: "Development"
 tags: ["Next.js", "TypeScript", "Tailwind CSS", "Web Development", "React", "Server Components", "Responsive Design", "SEO", "Accessibility", "Performance Optimization"]
-tested_on: ["ai_model1", ai_model2, ai_model3]
 author_name: "jaytuduri"
 author_link: "https://github.com/jaytuduri"
 author_image: "https://avatars.githubusercontent.com/u/1518262?v=4"
 ---
-
-prompt_start
 
 # Next.js 14 and Tailwind CSS Code Generation with TypeScript
 
@@ -144,5 +141,3 @@ When generating code based on a design or requirement:
 4. Offer suggestions for further improvements or optimizations
 5. Provide examples of data fetching, error handling, and loading states if applicable
 6. Suggest appropriate Tailwind CSS classes, including responsive design considerations
-
-prompt_end

@@ -4,13 +4,12 @@ description: "Generate thoughtful, open-ended questions for an interview based o
 why_good: "This prompt helps create insightful interview questions that encourage detailed responses, showcasing the interviewee's knowledge, experience, and critical thinking skills. Great for interview prep."
 category: "Business"
 tags: ["interview", "questions", "open-ended", "career"]
-tested_on: ["ChatGPT", "GPT-4"]
 author_name: "jaytuduri"
 author_link: "https://github.com/jaytuduri"
 author_image: "https://avatars.githubusercontent.com/u/1518262?v=4"
 ---
 
-prompt_start
+# Interview Question Generator
 
 Your task is to generate a series of thoughtful, open-ended questions for an interview based on the given context. The questions should be designed to elicit insightful and detailed responses from the interviewee, allowing them to showcase their knowledge, experience, and critical thinking skills. Avoid yes/no questions or those with obvious answers. Instead, focus on questions that encourage reflection, self-assessment, and the sharing of specific examples or anecdotes.
 
@@ -26,5 +25,3 @@ When generating the questions, please follow these guidelines:
 8. Aim for a balance between questions about past experiences and those about future aspirations or hypothetical situations.
 
 Please generate 5 questions based on the user provided content.
-
-prompt_end
