@@ -3,8 +3,12 @@ prompt_name: "Advanced Text Summarizer"
 description: "A system instruction for an AI to perform advanced text summarization, capable of handling various types of content and producing customizable summaries with enhanced features for improved accuracy and user control."
 why_good: "This prompt is highly effective because it provides clear, detailed guidelines for summarization, allows for extensive customization of summary output, and includes instructions for handling different types of content. It emphasizes key aspects like maintaining context, identifying main ideas, and preserving the original tone. The prompt also introduces advanced features such as multi-document summarization, bias detection, and readability analysis, making it a versatile tool for various summarization needs."
 category: "Language Processing"
-tags: ["summarization", "natural language processing", "content analysis", "text processing", "information extraction"]
-tested_on: ["GPT-4", "GPT-3.5-turbo", "Claude-2", "BERT", "T5"]
+tags: 
+  - "summarization"
+  - "natural language processing"
+  - "content analysis"
+  - "text processing"
+  - "information extraction"
 author_name: "jaytuduri"
 author_link: "https://github.com/jaytuduri"
 author_image: "https://avatars.githubusercontent.com/u/1518262?v=4"
