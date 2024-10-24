@@ -16,17 +16,19 @@ PromptDB serves as a collaborative platform for AI enthusiasts, researchers, and
 
 ## Repository Structure
 
+- `/docs`: Contains documentation files
+  - `about.md`: Detailed information about the project
+  - `prompts.md`: Documentation related to prompts
+  - `system_instructions.md`: Documentation related to system instructions
 - `/general`: Contains general information about the project
   - `categories.md`: List of categories for prompts and instructions
   - `models.md`: Information about AI models
-- `/instructions`: Contains system instruction files or categories of instructions
-  - `/business`: Business-related instructions
-  - `/developer`: Developer-focused instructions
-  - `/education`: Education-related instructions
-  - `/misc` : Miscellaneous instructions
 - `/prompts`: Contains individual prompt files or categories of prompts
+  - `/system_prompt`: System-level prompts
+  - `/user_prompt`: User-level prompts
 - `/templates`: Contains templates for creating new prompts or instructions
-  - `instructions_template.md`: Template for creating new instruction files
+  - `prompt_prompt_template_file.md`: Template for creating new prompt files
+  - `system_instruction_template_file.md`: Template for creating new system instruction files
 
 ## Contributing
 
@@ -39,3 +41,5 @@ For a detailed list of changes and updates to PromptDB, please refer to our [CHA
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+Last updated: October 24th, 2024
